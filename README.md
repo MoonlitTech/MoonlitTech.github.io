@@ -1,3 +1,3 @@
-# hw2.github.io
+# MoonlitTech.github.io
 
-Hello World!
+Assignment 2 for COMP 322. 
