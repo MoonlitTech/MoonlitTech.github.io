@@ -1,3 +1,3 @@
-# hw1_index.html.github.io
+# hw2.github.io
 
 Hello World!
