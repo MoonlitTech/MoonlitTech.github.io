@@ -1,0 +1,16 @@
+.underline {
+  text-decoration: underline;
+}
+
+.highlight {
+  background: orange;
+}
+
+.textcolor {
+  color: red;
+  font-weight: bold; 
+}
+
+p {
+  width: 350px; 
+}
